@@ -112,3 +112,9 @@ body {
     text-align: center;
 }
 
+.call-to-action h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
