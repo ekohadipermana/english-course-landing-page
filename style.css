@@ -104,3 +104,11 @@ body {
     gap: 1rem;
     align-items: center;
 }
+
+.call-to-action {
+    background-color: #2c5282;
+    color: white;
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
