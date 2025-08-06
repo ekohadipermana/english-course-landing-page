@@ -12,3 +12,10 @@ body {
     color: #333;
 }
 
+/* Styling the container  */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
