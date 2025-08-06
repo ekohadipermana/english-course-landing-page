@@ -49,3 +49,8 @@ body {
     font-family: 'Poppins', sans-serif;
     transition: background 0.3s;
 }
+
+.cta-button:hover {
+    background-color: #ecc94b;
+}
+
