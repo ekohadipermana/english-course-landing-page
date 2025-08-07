@@ -52,12 +52,12 @@ body {
 }
 
 /* Styling the container  */
-.container {
+/* .container { */
     /* max-width: 1100px;
     margin: 0 auto;
     padding: 2rem; */
-    text-align: center;
-}
+    /* text-align: center; */
+/* } */
 
 /* Hero Section  */
 .hero {
@@ -77,7 +77,7 @@ body {
     margin-bottom: 2rem;
 }
 
-.cta-button {
+/* .cta-button {
     background-color: #f6e05e;
     color: #2c5282;
     padding: 0.75rem 1.5rem;
@@ -87,11 +87,11 @@ body {
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     transition: background 0.3s;
-}
+} */
 
-.cta-button:hover {
+/* .cta-button:hover {
     background-color: #ecc94b;
-}
+} */
 
 .about-course {
     background-color: #f7fafc;
