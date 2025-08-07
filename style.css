@@ -157,3 +157,10 @@ body {
     color: #2c5282;
 }
 
+footer {
+    background-color: #1a202c;
+    color: #e2e8f0;
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 0.9rem;
+}
