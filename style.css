@@ -12,11 +12,50 @@ body {
     color: #333;
 }
 
-/* Styling the container  */
+/* Utility classes  */
 .container {
     max-width: 1100px;
     margin: 0 auto;
     padding: 2rem;
+}
+
+.section {
+    padding: 4rem 2rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #2c5282;
+}
+
+.button {
+    background-color: #f6e05e;
+    color: #2c5282;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    transition: background 0.3s;
+}
+
+.button:hover {
+  background-color: #ecc94b;
+}
+
+/* Styling the container  */
+.container {
+    /* max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem; */
     text-align: center;
 }
 
